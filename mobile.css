@@ -1,0 +1,98 @@
+.header .logo{
+    float: none;
+    text-align: center;    
+}
+
+.header ul{
+    float:none;
+}
+.header ul li{
+    float:none;
+    padding: 0px;
+}
+.header ul li a{
+    padding: 10px;
+    border-bottom: grey dotted 0.5px;
+}
+.Home-Info .Info-Image{
+    width: 100%;
+    float: none;
+}
+.Home-Info .Info-Content{
+    float: none;
+    width: 100%;
+    padding: 40px;
+    background-color: #333;
+    height: 450px;
+}
+.Home-Info .Info-Content h2{
+    padding: 0px;
+}
+
+.Box{
+    height: 300px;
+    text-align: center;
+    padding: 70px ;
+    float: none;
+    width: 100%;
+    /* background-color: white; */
+}
+.Features .Location{
+    margin-top: 450px;
+}
+
+.About-Info .About-Content,.About-Info .About-Image{
+    width: 100%;
+    float: none;
+}
+.About-Info{
+    padding: 10px;
+}
+.About-Info .About-Content{
+    line-height: 24px;
+}
+.About-Info .About-Content h1{
+    margin-bottom: 20px;
+}
+.About-Info .About-Image{
+    margin-top: 20px;
+}
+
+.Testimonials{
+    padding-top: 25px;
+}
+
+.Testimonials .Test-Box{
+    text-align: center;
+    background-color: rgb(209, 166, 125);
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    margin: 0px;
+    padding: 10px;
+}
+
+.Testimonials h2{
+    margin-bottom: 30px;
+}
+
+.Testimonials .Test-Img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+    margin: 0px;
+}
+
+.Contacts .Location{
+    height: 200px;
+    border-bottom: grey dotted 1px;
+}
+.Contacts .Phone{
+    height: 200px;
+    border-bottom: grey dotted 1px;
+}
+.Contacts .Email{
+    height: 200px;
+    border-bottom: grey dotted 1px;
+}
